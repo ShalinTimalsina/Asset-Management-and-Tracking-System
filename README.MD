@@ -44,7 +44,7 @@ A comprehensive web application for managing company assets, tracking assignment
 
 ### Database
 - **SQL Server Management Studio (SSMS)** – Database management  
-- Tables: `Employees`, `Assets`, `AssetAssignments`, `AssetTypes`  
+- Tables: `Employees`, `Assets`, `AssetAssignments` 
 
 ## 📋 Prerequisites
 Ensure you have installed:
@@ -190,6 +190,7 @@ npm start
     git push origin feature/amazing-feature
     ```
 5.  Open a Pull Request
+
 
 
 
