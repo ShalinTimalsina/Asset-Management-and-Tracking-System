@@ -57,7 +57,7 @@ Ensure you have installed:
 ### 1️⃣ Clone the repository
 ```bash
 git clone https://github.com/ShalinTimalsina/Asset-Management-and-Tracking-System.git
-cd asset-tracking-system
+
 ````
 
 ### 2️⃣ Install dependencies
@@ -190,6 +190,7 @@ npm start
     git push origin feature/amazing-feature
     ```
 5.  Open a Pull Request
+
 
 
 
